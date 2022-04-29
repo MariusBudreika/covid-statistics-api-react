@@ -1,1 +1,1 @@
-# Simple app to track covid cases using api.
+Simple app to track covid cases using api.
